@@ -1,0 +1,11 @@
+.MatchCardsContainer {
+    width: 70%;
+    border: solid 1px black;
+    margin: auto;
+}
+
+.DisplayNone {
+    display: none;
+}
+
+/* @media (min-width: 500) */

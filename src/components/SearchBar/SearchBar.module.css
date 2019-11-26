@@ -1,0 +1,11 @@
+.SearchBar {
+
+}
+
+.SearchBar select {
+    height: 21px;
+}
+
+.SearchBar select input button{
+    float: left
+}
